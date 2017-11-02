@@ -1,0 +1,4 @@
+Text,exhibit_id,exhibit_resource,exhibit_url,id,order,slug,title,url
+None,1,exhibits,http://bigreadstjoe.omeka.net/api/exhibits/1,2,1,art,Art,http://bigreadstjoe.omeka.net/api/exhibit_pages/2
+None,1,exhibits,http://bigreadstjoe.omeka.net/api/exhibits/1,1,0,headgear,Headgear,http://bigreadstjoe.omeka.net/api/exhibit_pages/1
+None,1,exhibits,http://bigreadstjoe.omeka.net/api/exhibits/1,3,2,other-items,Other Items,http://bigreadstjoe.omeka.net/api/exhibit_pages/3

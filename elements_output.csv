@@ -1,0 +1,50 @@
+comment,description,element_set_id,element_set_resource,element_set_url,id,name,order,url
+,Any textual data included in the document,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,1,Text,None,http://bigreadstjoe.omeka.net/api/elements/1
+,The person(s) performing the interview,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,2,Interviewer,None,http://bigreadstjoe.omeka.net/api/elements/2
+,The person(s) being interviewed,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,3,Interviewee,None,http://bigreadstjoe.omeka.net/api/elements/3
+,The location of the interview,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,4,Location,None,http://bigreadstjoe.omeka.net/api/elements/4
+,Any written text transcribed from a sound,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,5,Transcription,None,http://bigreadstjoe.omeka.net/api/elements/5
+,The URL of the local directory containing all assets of the website,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,6,Local URL,None,http://bigreadstjoe.omeka.net/api/elements/6
+,"The type of object, such as painting, sculpture, paper, photo, and additional data",3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,7,Original Format,None,http://bigreadstjoe.omeka.net/api/elements/7
+,The actual physical size of the original image,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,10,Physical Dimensions,None,http://bigreadstjoe.omeka.net/api/elements/10
+,"Length of time involved (seconds, minutes, hours, days, class periods, etc.)",3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,11,Duration,None,http://bigreadstjoe.omeka.net/api/elements/11
+,Type/rate of compression for moving image file (i.e. MPEG-4),3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,12,Compression,None,http://bigreadstjoe.omeka.net/api/elements/12
+,Name (or names) of the person who produced the video,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,13,Producer,None,http://bigreadstjoe.omeka.net/api/elements/13
+,Name (or names) of the person who produced the video,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,14,Director,None,http://bigreadstjoe.omeka.net/api/elements/14
+,Rate at which bits are transferred (i.e. 96 kbit/s would be FM quality audio),3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,15,Bit Rate/Frequency,None,http://bigreadstjoe.omeka.net/api/elements/15
+,A summary of an interview given for different time stamps throughout the interview,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,16,Time Summary,None,http://bigreadstjoe.omeka.net/api/elements/16
+,"The main body of the email, including all replied and forwarded text and headers",3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,17,Email Body,None,http://bigreadstjoe.omeka.net/api/elements/17
+,The content of the subject line of the email,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,18,Subject Line,None,http://bigreadstjoe.omeka.net/api/elements/18
+,The name and email address of the person sending the email,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,19,From,None,http://bigreadstjoe.omeka.net/api/elements/19
+,The name(s) and email address(es) of the person to whom the email was sent,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,20,To,None,http://bigreadstjoe.omeka.net/api/elements/20
+,The name(s) and email address(es) of the person to whom the email was carbon copied,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,21,CC,None,http://bigreadstjoe.omeka.net/api/elements/21
+,The name(s) and email address(es) of the person to whom the email was blind carbon copied,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,22,BCC,None,http://bigreadstjoe.omeka.net/api/elements/22
+,The number of attachments to the email,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,23,Number of Attachments,None,http://bigreadstjoe.omeka.net/api/elements/23
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,24,Standards,None,http://bigreadstjoe.omeka.net/api/elements/24
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,25,Objectives,None,http://bigreadstjoe.omeka.net/api/elements/25
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,26,Materials,None,http://bigreadstjoe.omeka.net/api/elements/26
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,27,Lesson Plan Text,None,http://bigreadstjoe.omeka.net/api/elements/27
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,28,URL,None,http://bigreadstjoe.omeka.net/api/elements/28
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,29,Event Type,None,http://bigreadstjoe.omeka.net/api/elements/29
+,Names of individuals or groups participating in the event,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,30,Participants,None,http://bigreadstjoe.omeka.net/api/elements/30
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,31,Birth Date,None,http://bigreadstjoe.omeka.net/api/elements/31
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,32,Birthplace,None,http://bigreadstjoe.omeka.net/api/elements/32
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,33,Death Date,None,http://bigreadstjoe.omeka.net/api/elements/33
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,34,Occupation,None,http://bigreadstjoe.omeka.net/api/elements/34
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,35,Biographical Text,None,http://bigreadstjoe.omeka.net/api/elements/35
+,,3,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/3,36,Bibliography,None,http://bigreadstjoe.omeka.net/api/elements/36
+,An entity responsible for making contributions to the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,37,Contributor,8,http://bigreadstjoe.omeka.net/api/elements/37
+,"The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant",1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,38,Coverage,15,http://bigreadstjoe.omeka.net/api/elements/38
+,An entity primarily responsible for making the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,39,Creator,4,http://bigreadstjoe.omeka.net/api/elements/39
+,A point or period of time associated with an event in the lifecycle of the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,40,Date,7,http://bigreadstjoe.omeka.net/api/elements/40
+,An account of the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,41,Description,3,http://bigreadstjoe.omeka.net/api/elements/41
+,"The file format, physical medium, or dimensions of the resource",1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,42,Format,11,http://bigreadstjoe.omeka.net/api/elements/42
+,An unambiguous reference to the resource within a given context,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,43,Identifier,14,http://bigreadstjoe.omeka.net/api/elements/43
+,A language of the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,44,Language,12,http://bigreadstjoe.omeka.net/api/elements/44
+,An entity responsible for making the resource available,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,45,Publisher,6,http://bigreadstjoe.omeka.net/api/elements/45
+,A related resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,46,Relation,10,http://bigreadstjoe.omeka.net/api/elements/46
+,Information about rights held in and over the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,47,Rights,9,http://bigreadstjoe.omeka.net/api/elements/47
+,A related resource from which the described resource is derived,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,48,Source,5,http://bigreadstjoe.omeka.net/api/elements/48
+,The topic of the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,49,Subject,2,http://bigreadstjoe.omeka.net/api/elements/49
+,A name given to the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,50,Title,1,http://bigreadstjoe.omeka.net/api/elements/50
+,The nature or genre of the resource,1,element_sets,http://bigreadstjoe.omeka.net/api/element_sets/1,51,Type,13,http://bigreadstjoe.omeka.net/api/elements/51
